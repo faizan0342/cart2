@@ -1,0 +1,9 @@
+data string
+
+userInfo
+: 
+"{\"_id\":\"654b2cd2a81c733dcde719b4\",\"name\":\"faizan\",\"email\":\"faizanshaikh@gmail.com\",\"isAdmin\":true,\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTRiMmNkMmE4MWM3MzNkY2RlNzE5YjQiLCJuYW1l
+
+conver object :
+
+JSON.parser
